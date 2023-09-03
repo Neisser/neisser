@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working at **[Soluntech](https://soluntech.com/)**
 
+- 🧩 Second account: **[https://github.com/neisser-soluntech](https://github.com/neisser-soluntech)**
+
 - 🌱 I’m currently learning **Design system, Data Structures, Software Architecture, Rust, gRPC, tRPC, graphQL**
 
 - 💬 Ask me about **react, nextjs, nestjs, express, nodejs, mongodb**
