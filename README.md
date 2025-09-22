@@ -1,7 +1,7 @@
 <h1 align="center">Hello World ✌️, I'm Neisser</h1>
 <h3 align="center">A passionate Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working at **[Soluntech](https://soluntech.com/)**
+- 🔭 I’m currently working at **[Globant](https://globant.com/)**
 
 - 🌱 I’m currently learning **Design system, Data Structures, Software Architecture, Rust, gRPC, tRPC, graphQL**
 
